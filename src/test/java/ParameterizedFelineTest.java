@@ -20,9 +20,10 @@ public class ParameterizedFelineTest {
     public static Object[][] countKitten() {
         return new Object[][]{
                 {1, 1},
-                {10, 10},
-                {0, 0},
+                {2, 2},
+                {4, 4},
                 {5, 5},
+                {0, 0},
         };
     }
 
